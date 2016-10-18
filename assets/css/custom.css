@@ -1,0 +1,78 @@
+.content-banner{
+	margin-top: 40px;
+    position: relative;
+    z-index: 1;
+}
+
+.content-banner img{
+	width: 100%;
+    height: 170px;
+}
+
+.content-resume{
+	width: 100%;
+    height: 70px;
+}
+
+.truncate{	
+    display: block;
+}
+
+.content-infos{
+    position: absolute;
+    width: 100%;
+    z-index: 2;
+}
+
+.titulo-curso{
+	font-size: 17px;	
+	color: #fff;
+	background: #2b2b2b;
+	padding: 5px 10px 5px;
+}
+
+.titulo-curso h3 {
+    font-size: 23px;
+    margin: 0;
+    padding: 0;
+    line-height: 30px;
+    color: #ffffff;
+}
+
+.titulo{
+	font-size: 18px;
+    color: #979797;
+    text-transform: uppercase;
+}
+
+li.content-curso{
+	margin-bottom: 15px;
+	list-style: none;
+	float: left;
+}
+
+.subtitulo-curso {
+    background-color: #4D88A8;
+    width: auto;
+    display: inline-block;
+    padding: 5px 5px 0px 5px;
+}
+
+.subtitulo-curso h5 {
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+    color: #ffffff;
+}
+
+.teachers h6 {
+    padding: 5px 10px;
+    margin: 0;
+    color: #ffffff;
+    text-shadow: 1px 1px 2px #000;
+}
+
+.box{
+    position: relative;
+    overflow: hidden;
+}
